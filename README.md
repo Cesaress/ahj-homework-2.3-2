@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/e28hdsp6575ac6lf?svg=true)](https://ci.appveyor.com/project/Cesaresss/ahj-homework-2.3-2)
+[![CI](https://github.com/Cesaress/ahj-homework-2.3-2/actions/workflows/main.yml/badge.svg)](https://ci.appveyor.com/project/Cesaress/ahj-homework-2-3-2)
 https://Cesaress.github.io/ahj-homework-2.3-2/
 
 ### HelpDesk
